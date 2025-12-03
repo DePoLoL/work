@@ -1,0 +1,4 @@
+﻿  MAOptimizationTask.cpp
+C:\Users\frank\Desktop\MAOptimizationTask\MAOptimizationTask\MAOptimizationTask.cpp(16,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\frank\Desktop\MAOptimizationTask\MAOptimizationTask\MAOptimizationTask.cpp(30,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  MAOptimizationTask.vcxproj -> C:\Users\frank\Desktop\MAOptimizationTask\x64\Debug\MAOptimizationTask.exe
